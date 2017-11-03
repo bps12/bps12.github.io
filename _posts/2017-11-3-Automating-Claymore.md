@@ -9,7 +9,7 @@ I got into ethereum mining right before the huge circus around May 2017 where pe
 
 ![_config.yml]({{ site.baseurl }}/images/automation.png)
 
- Assumptions
+### Assumptions
 I mine on Linux, I know Microsoft is a better platform to mine on because of all the GPU tools but I refuse to pay the piper in terms of licensing. 
 
 We are working with Debian like systems (Ubuntu, Mint, etc). GPUs do not play very nice with RHEL,  CentOS etc and debian has well supported drivers and ‘just works’. 

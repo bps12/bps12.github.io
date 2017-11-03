@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Crypto currency Nerd, Aquapnonics ethusisant, World Traveler. Thoughts all my own. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I've been a big promponent of the cultural exchaneg enabled with couchsurfing: https://www.couchsurfing.com/people/bs25
+Feel free to hit me up!
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[bs@brianschaffner.com](mailto:bs@brianschaffner.com)

@@ -53,7 +53,8 @@ claymore_dest_dir: /usr/local/Claymore10
 
 ### Upgrade task
 
-```- name: Apt update / upgrade
+```---
+- name: Apt update / upgrade
   apt: upgrade=yes update_cahce=yes
   become: yes
 
@@ -67,7 +68,7 @@ claymore_dest_dir: /usr/local/Claymore10
     - htop
     - screen
     - openssh-server
-  ```
+```
 
 ### Claymore Miner task
 ```---

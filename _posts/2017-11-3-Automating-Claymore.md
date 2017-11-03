@@ -40,9 +40,6 @@ claymore_dest_dir: /usr/local/Claymore10
   - name: "prompt_amd_drivers"
     prompt: Enter AMD driver URL
     private: no
-
-# Example URL for Claymore Miner - https://github.com/nanopool/Claymore-Dual-Miner/releases/download/v10.0/Claymore.s.Dual.Ethereum.Decred_Siacoin_Lbry_Pascal.AMD.NVIDIA.GPU.Miner.v10.0.-.LINUX.tar.gz
-# example URL for AMD -  https://www2.ati.com/drivers/linux/ubuntu/amdgpu-pro-17.40-492261.tar.xz
 ```
 
 

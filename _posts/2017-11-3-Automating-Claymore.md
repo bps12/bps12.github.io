@@ -10,13 +10,13 @@ I got into ethereum mining right before the huge circus around May 2017 where pe
 ![_config.yml]({{ site.baseurl }}/images/automation.png)
 
 ### Assumptions
-I mine on Linux, I know Microsoft is a better platform to mine on because of all the GPU tools but I refuse to pay the piper in terms of licensing. 
+*I mine on Linux, I know Microsoft is a better platform to mine on because of all the GPU tools but I refuse to pay the piper in terms of licensing. 
 
-We are working with Debian like systems (Ubuntu, Mint, etc). GPUs do not play very nice with RHEL,  CentOS etc and debian has well supported drivers and ‘just works’. 
+*We are working with Debian like systems (Ubuntu, Mint, etc). GPUs do not play very nice with RHEL,  CentOS etc and debian has well supported drivers and ‘just works’. 
 
-This post is also assuming AMD Radeon RX cards, I will update the master repository shortly with NVIDIA CUDA support. 
+*This post is also assuming AMD Radeon RX cards, I will update the master repository shortly with NVIDIA CUDA support. 
 
-You have ansible setup and configured. 
+*You have ansible setup and configured. 
 
 ### Github Repo
 You can find the github repo here: <https://github.com/bps12/Claymore-Miner-Ansible> - This repo is still a WIP

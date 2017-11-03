@@ -177,5 +177,5 @@ export GPU_SINGLE_ALLOC_PERCENT=100
 ```#!/bin/sh
 reboot -f
 ```
-You can find the github repo here: <https://github.com/bps12/Claymore-Miner-Ansible>
-This is will a WIP and will be updated soon
+You can find the github repo here: <https://github.com/bps12/Claymore-Miner-Ansible> - This repo is still a WIP
+

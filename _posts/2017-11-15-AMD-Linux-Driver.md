@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Testing AMDGPU-PRO Beta Mining Drivers (17.40_
+title: Testing AMD Beta Mining Drivers (17.40)
 ---
 
 ### Background

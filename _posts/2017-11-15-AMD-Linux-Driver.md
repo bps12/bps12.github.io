@@ -19,7 +19,7 @@ The directions are pretty self explanatory, upgrade or install the driver and re
 
 
 ### The Result
-Before the fix, my 5 GPU rig was hashing at about 110 Mh/s whilist dual mining Sia. Here are the results after the above was applied:
+Before the fix my 5 GPU rig was hashing at about 110 Mh/s whilist dual mining Sia. Here are the results after the above was applied:
 ![_config.yml]({{ site.baseurl }}/images/hash.png)
 
 Happy Mining!

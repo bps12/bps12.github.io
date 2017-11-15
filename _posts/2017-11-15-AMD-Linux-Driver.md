@@ -8,7 +8,7 @@ Mining ethereum and crypto in general can be an infinite rabbit hole. Ethereum h
 
 As this relates to Ethereum mining, your hash rate will go down the further along the DAG epochs are. You can find the current DAG epoch whenever you fire up your miner or check your mining pools homepage. This issue has already been patched with AMD Drivers for Windows but not in Linux until now. AMD's High performance Computing team has released the fix (to much rejoicing... or maybe just mine!). 
 
-A few tweaks to your kernel can net you at least 20-40 MH/s with Ethereum.  
+A few tweaks to your kernel can net you at least 20-40 MH/s.
 
 
 ### The Install 

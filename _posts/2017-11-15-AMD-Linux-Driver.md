@@ -12,7 +12,7 @@ A few tweaks to your kernel can net you at least 20-40 MH/s.
 
 
 ### The Install 
-You can find the instrucstions [here](http://support.amd.com/en-us/kb-articles/Pages/AMDGPU-Pro-Beta-Mining-Driver-for-Linux-Release-Notes.aspx).
+You can find the instructions [here](http://support.amd.com/en-us/kb-articles/Pages/AMDGPU-Pro-Beta-Mining-Driver-for-Linux-Release-Notes.aspx).
 
 The directions are pretty self explanatory, upgrade or install the driver and reboot your system. You'll need to add the boot paramater amdgpu.vm_fragment_size=9 to the boot options in /etc/default/grub. This fix should only need to applied with Ellesmere cards (RX 480s / 580s). Vega cards set the 2MB fragments in the userspace automatically.  
 

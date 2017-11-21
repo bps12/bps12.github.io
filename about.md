@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Crypto currency nerd, Aquapnonics ethusisant, World traveler. Thoughts all my own. 
+Crypto currency nerd, Aquaponics ethusisant, world traveler. Thoughts all my own. 
 
 ### More Information
 

@@ -4,7 +4,7 @@ title: Testing AMD Beta Linux Mining Drivers (17.40)
 ---
 
 ### Background
-Mining ethereum and crypto in general can be an infinite rabbit hole. Ethereum has whats called a DAG file and DAG epochs. Essentially, its mathmatical goverence to keep Ethereum ASIC resistant. For the math and CS majors you can find a detailed explanation [here](https://ethereum.stackexchange.com/questions/1993/what-actually-is-a-dag/8883#8883).
+Mining ethereum and crypto in general can be an infinite rabbit hole. Ethereum has whats called a DAG file and DAG epochs. Essentially, its mathematical governance to keep Ethereum ASIC resistant. For the math and CS majors you can find a detailed explanation [here](https://ethereum.stackexchange.com/questions/1993/what-actually-is-a-dag/8883#8883).
 
 As this relates to Ethereum mining, your hash rate will go down the further along the DAG epochs are(You can find the current DAG epoch whenever you fire up your miner or check your mining pools homepage). This issue has already been patched with AMD drivers for Windows but not in Linux until now. AMD's high performance computing team has released the fix (to much rejoicing... or maybe just mine!). 
 

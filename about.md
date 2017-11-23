@@ -8,7 +8,7 @@ Crypto currency nerd, Aquaponics enthusiast, world traveler. Thoughts all my own
 
 ### More Information
 
-I've been a big promponent of the cultural exchaneg enabled with [couchsurfing](https://www.couchsurfing.com/people/bs25).
+I've been a big proponent of the cultural exchange enabled with [couchsurfing](https://www.couchsurfing.com/people/bs25).
 
 Feel free to hit me up!
 

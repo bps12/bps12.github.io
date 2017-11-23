@@ -15,3 +15,7 @@ Feel free to hit me up!
 ### Contact me
 
 [bs@brianschaffner.com](mailto:bs@brianschaffner.com)
+
+Support the Briand Fund:
+BTC: 12uKh79xWBj11hmGMQ5XsnkkwSbpRu1squ
+ETH: 0x817c3b9ca6d3b3466cd1cd39c58faff098d096f7

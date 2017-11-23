@@ -6,9 +6,9 @@ permalink: /about/
 
 Cryptocurrency nerd, Aquaponics enthusiast, world traveler. Thoughts all my own. 
 
-I've been a big proponent of the cultural exchange enabled with [couchsurfing](https://www.couchsurfing.com/people/bs25).
+I've been a big proponent of the cultural exchange enabled with [couchsurfing](https://www.couchsurfing.com/people/bs25). Feel free to hit me up!
 
-Feel free to hit me up!
+
 
 ### Contact me
 

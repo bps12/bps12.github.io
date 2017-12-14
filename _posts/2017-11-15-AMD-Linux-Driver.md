@@ -14,6 +14,8 @@ A few tweaks to your kernel can net you at least 20-40 MH/s.
 ### The Install 
 You can find the instructions [here](http://support.amd.com/en-us/kb-articles/Pages/AMDGPU-Pro-Beta-Mining-Driver-for-Linux-Release-Notes.aspx).
 
+I have additionally heard rumblings on bitcointalk and discord that the ROCm kernel is also required for this fix. I was already running this kernel on my miners testing out some ways to process media at scale for future VDI deployments. 
+
 The directions are pretty self explanatory, upgrade or install the driver and reboot your system. You'll need to add the boot paramater amdgpu.vm_fragment_size=9 to the boot options in /etc/default/grub. This fix should only need to applied with Ellesmere cards (RX 480s / 580s). Vega cards set the 2MB fragments in the userspace automatically.  
 
 

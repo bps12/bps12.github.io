@@ -15,7 +15,7 @@ Thoughts all my own.
 [bs@brianschaffner.com](mailto:bs@brianschaffner.com)
 
 ### Resume
-[PDF](brianschaffner.com/images/bs-20180418-scrubbed.pdf) 
+[Here](brianschaffner.com/images/bs-20180418-scrubbed.pdf) 
 
 #### Support the Brian Fund:
 

@@ -34,7 +34,7 @@ My gracious hosts took me to the Ibon De Estanes. This is a lake in the mountain
 
 ### The Renfe 
 The Renfe is the train system throughout spain (both the regional bullet trains and standard metro rails). The train no longer runs into France for some reason (which I'm still not entirely clear about). However you can take it from the border of France. Since I love trains, my friends thought it would be a good idea to drop me off at the most remote station and to to just meet them back in Huesca. I agreed full heartedly and was dropped off at a station called Castiello(I was the lone passenger). My limited spanish got me a ticket but It was hard to understand much more ("Yo necesito comprar una etiqueta castiello a huesca!"). 
-![_config.yml]({{ site.baseurl }}/images/refe.jpg)
+![_config.yml]({{ site.baseurl }}/images/renfe.jpg)
 ![_config.yml]({{ site.baseurl }}/images/ticket.png)
 
 The conductor explained to me in very fast Spanish that we were changing train in Huesca (my final destination) and it took me about 3 times to fully understand with my ignorant American ways creeping in. Luckily I didn't have to deal with this was able to get back in one piece and glide through the mountains getting a nice view!

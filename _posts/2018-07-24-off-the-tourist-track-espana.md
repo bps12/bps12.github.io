@@ -3,7 +3,7 @@ layout: post
 title: Off the tourist track (en Espana)
 ---
 
-Off the bat, apologies for not posting in a long time. Its been a life whirlwind between pruchasing a house, a new job, and traveling. I've been saving this blog post for awhile. 
+Off the bat, apologies for not posting in a long time. Its been a life whirlwind between purchasing a house, a new job, and traveling. I've been saving this blog post for awhile. 
 
 ### The Idea 
 After hosting numerous people on couchsurfing over the years, I decided to do a Europe trip mostly in former soviet block countries (in this instance the [Visegrad group](https://en.wikipedia.org/wiki/Visegr%C3%A1d_Group)). However, some of my favorite couchsurfers of all time from Spain who lived in Huesca (a small town near the Pyrenees mountains) had extended an open invite to me. I decided to take them up on it and skip the tourist track in Barcelona and board the first train to Zaragoza and live the mountain life. I as joined by some of their family and they took me in as one of their own. Thanks so much Javi, Vanessa, Pepe, Humberto, and Laura!!!

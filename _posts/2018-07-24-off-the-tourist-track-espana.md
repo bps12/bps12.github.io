@@ -21,7 +21,7 @@ After catching up, It was time for a small siesta and then we went out to get so
 ### Jaca
 We arrived in the early afternoon on our way to Aratores (where my friends have a cabin) to pick up some supplies and have a look around. Jaca is the more touristic town (at least in relation to Huesca). It has two prominent buildings the San Pedro Citadel and the Jaca Cathedral. Built in the 16th and 10th (!) century respectively. I believe the cathedral is the old one standing on the Iberian Peninsula. There was not a soul inside when I visited making it a bit eerie with an ancient vibe. At this time in Jaca there was a town wide celebration happening (Think Carnival). This happens every year across most towns in Spain (the one in Huesca was the week after). This was a very interesting thing to witness as a foreigner, each part of the town dressed in their neighborhood colors and had designated leaders leading them (with drinks, and instruments!). Heck even Ned Flanders made an appearance!
 
-![_config.yml]({{ site.baseurl }}/images/jaca-fest.jpg)
+![_config.yml]({{ site.baseurl }}/images/jaca-fest.png)
 
 ### The Pyrenees
 My gracious hosts took me to the Ibon De Estanes. This is a lake in the mountains right on the border with France. Its an 11 mile hike round trip and that wraps around back through France(Thank goodness for the Shenegen zone :P). I don't really think my words can do it justice so I'll just leave some pictures. 
@@ -30,12 +30,12 @@ My gracious hosts took me to the Ibon De Estanes. This is a lake in the mountain
 ![_config.yml]({{ site.baseurl }}/images/church.jpg)
 ![_config.yml]({{ site.baseurl }}/images/me.jpg)
 ![_config.yml]({{ site.baseurl }}/images/ibon.jpg)
-![_config.yml]({{ site.baseurl }}/images/tapas.jpg)
+![_config.yml]({{ site.baseurl }}/images/tapas.png)
 
 ### The Renfe 
 The Renfe is the train system throughout spain (both the region bullet trains and standard metro rails). The train no longer runs into France for some reason (which I'm still not entirely clear about). However you can take it from the border of France. Since I love trains, my friends thought it would be a good idea to drop me off at the most remote station and to to just meet them back in Huesca. I agreed full heartedly and was dropped off at a station called Castiello(I was the lone passenger). My limited spanish got me a ticket but It was hard to understand much more ("Yo necesito comprar una etiqueta castiello a huesca!"). 
 
-![_config.yml]({{ site.baseurl }}/images/ticket.jpg)
+![_config.yml]({{ site.baseurl }}/images/ticket.png)
 
 The conductor explained to me in very fast Spanish that we were changing train in Huesca (my final destination) and it took me about 3 times to fully understand with my ignorant American ways creeping in. Luckily I didn't have to deal with this was able to get back in one piece and glide through the mountains getting a nice view!
 

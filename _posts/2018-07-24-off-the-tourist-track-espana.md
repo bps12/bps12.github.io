@@ -22,8 +22,7 @@ After catching up, It was time for a small siesta and then we went out to get so
 We arrived in the early afternoon on our way to Aratores (where my friends have a cabin) to pick up some supplies and have a look around. Jaca is the more touristic town (at least in relation to Huesca). It has two prominent buildings the San Pedro Citadel and the Jaca Cathedral. Built in the 16th and 10th (!) century respectively. I believe the cathedral is the oldest one standing on the Iberian Peninsula. There was not a soul inside when I visited making it a bit eerie with an ancient vibe.
 
 ![_config.yml]({{ site.baseurl }}/images/cath.jpg)
-
-Unfortunaely my pictures had too much light exposure so here one from the googles. 
+###### This is the only photo that isn't mine. There was too much light coming in to get a good picture while I was there. 
 
 At this time in Jaca there was a town wide celebration happening (Think Carnival). This happens every year across most towns in Spain (the one in Huesca was the week after). This was a very interesting thing to witness as a foreigner, each part of the town dressed in their neighborhood colors and had designated leaders leading them (with drinks, and instruments!). Heck even Ned Flanders made an appearance!
 

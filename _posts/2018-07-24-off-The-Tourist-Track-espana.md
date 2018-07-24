@@ -6,7 +6,9 @@ title: Off The Tourist Track (en Espana)
 Off the bat, apologies for not posting in a long time. Its been a life whirlwind between purchasing a house, a new job, and traveling. I've been saving this blog post for awhile. 
 
 ### The Idea 
-After hosting numerous people on couchsurfing over the years, I decided to do a Europe trip mostly in former soviet block countries (in this instance the [Visegrad group](https://en.wikipedia.org/wiki/Visegr%C3%A1d_Group)). However, some of my favorite couchsurfers of all time who live in Huesca, Spain (a small town near the Pyrenees mountains) had extended an open invite to me. I decided to take them up on it and travel there on the last leg of my journey. I skipped the tourist track in Barcelona and boarded the first train to Zaragoza. I was joined by some of their family and they took me in as one of their own. Thanks so much Javi, Vanessa, Pepe, Humberto, and Laura!!! The only picture I have of us is in Go Tavern in Logan Square when they surfed with me:
+After hosting numerous people on couchsurfing over the years, I decided to do a Europe trip mostly in former soviet block countries (in this instance the [Visegrad group](https://en.wikipedia.org/wiki/Visegr%C3%A1d_Group)). However, some of my favorite couchsurfers of all time who live in Huesca, Spain (a small town near the Pyrenees mountains) had extended an open invite to me. I decided to take them up on it and travel there on the last leg of my journey. I skipped the tourist track in Barcelona and boarded the first train to Zaragoza. I was joined by some of their family and they took me in as one of their own. Muchas gracias Javi, Vanessa, Pepe, Humberto, and Laura!!! Espero ver a todos de nuevo
+
+The only picture I have of us is in Go Tavern in Logan Square when they surfed with me:
 
 ![_config.yml]({{ site.baseurl }}/images/go.jpg)
 

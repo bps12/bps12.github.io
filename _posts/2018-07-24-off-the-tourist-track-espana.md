@@ -37,6 +37,6 @@ The Renfe is the train system throughout spain (both the regional bullet trains 
 ![_config.yml]({{ site.baseurl }}/images/renfe.jpg)
 ![_config.yml]({{ site.baseurl }}/images/ticket.png)
 
-The conductor explained to me in very fast Spanish that we were changing train in Huesca (my final destination) and it took me about 3 times to fully understand with my ignorant American ways creeping in. Luckily I didn't have to deal with this was able to get back in one piece and glide through the mountains getting a nice view!
+The conductor explained to me in very fast Spanish that we were changing train in Huesca (my final destination) and it took me about 3 times to fully understand with my ignorant American ways creeping in. Luckily I didn't have to deal with this was able to get back in one piece whilist getting a nice mountain view.
 
-Despite the hike kicking my out of weight ass, overall it was one the best experiences I have ever had. 
+Despite the hike kicking my out of shape ass, overall it was one the best experiences I have ever had. 

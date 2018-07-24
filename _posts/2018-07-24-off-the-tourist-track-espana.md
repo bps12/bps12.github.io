@@ -24,7 +24,7 @@ We arrived in the early afternoon on our way to Aratores (where my friends have 
 ![_config.yml]({{ site.baseurl }}/images/jaca-fest.png)
 
 ### The Pyrenees
-My gracious hosts took me to the Ibon De Estanes. This is a lake in the mountains right on the border with France. Its an 11 mile hike round trip and that wraps around back through France(Thank goodness for the Shenegen zone :P). I don't really think my words can do it justice so I'll just leave some pictures. 
+My gracious hosts took me to the Ibon De Estanes. This is a lake in the mountains right on the border with France. Its an 11km hike round trip and that wraps around back through France(Thank goodness for the Shenegen zone :P). I don't really think my words can do it justice so I'll just leave some pictures. 
 
 ![_config.yml]({{ site.baseurl }}/images/pyrfull.jpg)
 ![_config.yml]({{ site.baseurl }}/images/church.jpg)

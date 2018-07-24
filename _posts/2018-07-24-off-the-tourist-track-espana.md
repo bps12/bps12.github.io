@@ -29,7 +29,7 @@ At this time in Jaca there was a town wide celebration happening (Think Carnival
 ![_config.yml]({{ site.baseurl }}/images/jaca-fest.png)
 
 ### The Pyrenees
-My gracious hosts took me to the Ibon De Estanes. This is a lake in the mountains right on the border with France. Its an 11km hike round trip and that wraps around back through France(Thank goodness for the Shenegen zone :P). I don't really think my words can do it justice so I'll just leave some pictures. 
+My gracious hosts took me to the Ibon De Estanes. This is a lake in the mountains right on the border with France. Its an 11km hike round trip and that wraps around back through France(Thank goodness for the Shenegen zone :tada). I don't really think my words can do it justice so I'll just leave some pictures. 
 
 ![_config.yml]({{ site.baseurl }}/images/pyrfull.jpg)
 ![_config.yml]({{ site.baseurl }}/images/church.jpg)
@@ -44,4 +44,4 @@ The Renfe is the train system throughout spain (both the regional bullet trains 
 
 The conductor explained to me in very fast Spanish that we were changing trains in Huesca (my final destination) and it took me about 3 times to fully understand with my American ignorance creeping in. Luckily I didn't have to deal with this situation and was able to get back in one piece whilist getting a nice mountain view.
 
-Despite the hike kicking my out of shape ass, overall it was one the best experiences I have ever had. 
+Despite the hike kicking my out of shape ass, overall it was one the best experiences I have ever had. :sparkles

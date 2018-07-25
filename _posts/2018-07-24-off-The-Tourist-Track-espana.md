@@ -44,7 +44,7 @@ My gracious hosts took me to the Ibon De Estanes. This is a lake in the mountain
 *Bonus post hike tapas* 
 
 ### The Renfe 
-The Renfe is the train system throughout Spain (both the regional bullet trains and standard metro rails). The train no longer runs into France. My understanding is that a train derailed in the 70s which demolished a key bridge. France never rebuilt it since it was under some financial pressure. Since it was built under Franco-Spanish international convention it did remain opened during WW2 which provided an escape route for some jews and allid soldiers. 
+The Renfe is the train system throughout Spain (both the regional bullet trains and standard metro rails). The train no longer runs into France. My understanding is that a train derailed in the 70s which demolished a key bridge. France never rebuilt it since it was under some financial pressure. Since it was built under Franco-Spanish international convention it did remain opened during WW2 which provided an escape route for some jews and allied soldiers. 
 
 ![_config.yml]({{ site.baseurl }}/images/renfe.png)
 

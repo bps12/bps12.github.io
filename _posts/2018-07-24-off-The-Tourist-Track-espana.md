@@ -48,7 +48,7 @@ The Renfe is the train system throughout Spain (both the regional bullet trains 
 
 ![_config.yml]({{ site.baseurl }}/images/renfe.png)
 
-This is station Canfrac which is somewhat famous: [further reading](http://www.forbidden-places.net/urban-exploration-canfranc-railway-station#1)
+This is the station Canfrac which is somewhat famous: [further reading](http://www.forbidden-places.net/urban-exploration-canfranc-railway-station#1)
 
 Since I love trains, my friends thought it would be a good idea to drop me off at the most remote station and to to just meet them back in Huesca. I agreed full heartedly and was dropped off at a station called Castiello; I was the lone passenger.  My limited spanish got me a ticket but It was hard to understand much more ("Yo necesito comprar una etiqueta castiello a huesca!"). 
 

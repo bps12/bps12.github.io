@@ -18,7 +18,7 @@ I arrived in the early afternoon and was immediately greeted with some Gazpacho 
 
 ![_config.yml]({{ site.baseurl }}/images/rusa.jpg)
 
-After catching up, It was time for a small siesta and then we went out to get some traditional Huesca Tapas. My memory is a bit blurry here between the beer and Orujo and I took no pictures (killing it). The only things I can distinctly remember eating were pig snout and croquetas which were equally delicious. From Huesca it was off to Jaca and then the Pyrenees. 
+After catching up, It was time for a small siesta and then we went out to get some traditional Huesca tapas. My memory is a bit blurry here between the beer and Orujo and I took no pictures (killing it). The only things I can distinctly remember eating were pig snout and croquetas which were equally delicious. From Huesca it was off to Jaca and then the Pyrenees. 
 
 ![_config.yml]({{ site.baseurl }}/images/route.png)
 
@@ -43,7 +43,7 @@ My gracious hosts took me to the Ibon De Estanes. This is a lake in the mountain
 ![_config.yml]({{ site.baseurl }}/images/tapas.png)
 
 ### The Renfe 
-The Renfe is the train system throughout spain (both the regional bullet trains and standard metro rails). The train no longer runs into France. My understanding is that a train derailed in the 70s which demolished a key bridge. France never rebuilt it since it was under some financial pressure. Since it was built under Franco-Spanish international convention it did remain opened during WW2 which provided an escape route for some jews and allid soldiers. 
+The Renfe is the train system throughout Spain (both the regional bullet trains and standard metro rails). The train no longer runs into France. My understanding is that a train derailed in the 70s which demolished a key bridge. France never rebuilt it since it was under some financial pressure. Since it was built under Franco-Spanish international convention it did remain opened during WW2 which provided an escape route for some jews and allid soldiers. 
 
 ![_config.yml]({{ site.baseurl }}/images/renfe.png)
 

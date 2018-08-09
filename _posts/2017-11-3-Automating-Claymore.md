@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Automating Claymore's Miner on Ubuntu / Debian
+comments: true
 ---
 
 Crypto has always fascinated me ever since around 2011-2012 when I was first introduced. Maybe it was my 'edgy' libertarian leanings at the time but something about it always seemed righteous. Of course, as I type this Bitcoin is over 7000 dollars and all sorts of alt coins have risen and fallen, pumped and dumped, and scammed the world. 

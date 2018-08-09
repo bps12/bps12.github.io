@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Testing AMD Beta Linux Mining Drivers (17.40)
+comments: true
 ---
 
 ### Background

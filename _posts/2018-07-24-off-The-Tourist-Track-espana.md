@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Off The Tourist Track (en Espana)
+comments: true
 ---
 
 Off the bat, apologies for not posting in a long time. Its been a life whirlwind between purchasing a house, a new job, and traveling. I've been saving this blog post for awhile. 

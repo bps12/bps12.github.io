@@ -4,7 +4,7 @@ title: Automating Claymore's Miner on Ubuntu / Debian
 comments: true
 ---
 
-Crypto has always fascinated me ever since around 2011-2012 when I was first introduced. Maybe it was my 'edgy' libertarian leanings at the time but something about it always seemed righteous. Of course, as I type this Bitcoin is over 7000 dollars and all sorts of alt coins have risen and fallen, pumped and dumped, and scammed the world. 
+Crypto has always fascinated me ever since around 2011-2012 when I was first introduced. Of course, as I type this Bitcoin is over 7000 dollars and all sorts of alt coins have risen and fallen, pumped and dumped, and scammed the world. 
 
 I got into ethereum mining right before the huge circus around May 2017 where people everywhere were buying as many AMD GPU's they could get their hands on... Funnily enough, I would now say NVIDIA cards are far superior in terms of profit / cost (electricity) but thats a post for another time. I've got about 4 or 5 rigs right now still up and running and have recently co-located my rigs with a friend along with a pile of ASICS (Dash, Bitcoin, etc). We both work full time jobs and started running into scaling and maintenance problems. After banging my head against the keyboard a few too many times… it was time to automate:
 

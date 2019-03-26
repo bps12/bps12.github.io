@@ -22,7 +22,7 @@ The first thing i was struck with was how fucking huge Mexico City is. Its so ha
 Once I made my way to my hosts place and got settled my first truly 'Mexican experience' happended -- it involved the water and no I wasn't dumb enough to drink it (almost). The city was doing some major construction on their street which had in turn knocked off all the water on the block. All showers from then on were hobo style with baby wipes and buckets of water. Alejendra joked with me that it was similar to staying at her Abuelas house (where there is still no running water). I'm not a picky person and persevered. 
 
 ### Teotihuacan
-I woke up at 6am to go visit Teotihuacan after a heavy night of drinking. It wasn't so easy getting up and learned the hard lesson of Tiempo Mexicano. 'Mexican Time' is a cultural pain point where everything is perpetually 30-45 mins late. It took us awhile to heard the troops together and get to and find the rental van we intended to take one hour outside of town to see the famous pyramids. Despite this and it being hot as well, It was absolutely worth the sun burn, rough hangover, and snags:
+I woke up at 6am to go visit Teotihuacan after a heavy night of drinking. It wasn't so easy getting up and learned the hard lesson of Tiempo Mexicano. 'Mexican Time' is a cultural pain point where everything is perpetually 30-45 mins late. It took us awhile to heard the troops together and get to and find the rental van we intended to take one hour outside of town to see the famous pyramids. Despite this and it being hot as well, It was absolutely worth the sun burn, rough hangover, and logistical snags:
 
 ![_config.yml]({{ site.baseurl }}/images/teo.jpg)
 

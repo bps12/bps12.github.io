@@ -14,11 +14,8 @@ Thoughts all my own.
 
 [bs@brianschaffner.com](mailto:bs@brianschaffner.com)
 
-### Resume
-[Here](http://brianschaffner.com/resume/)
+### [Resume](http://brianschaffner.com/resume/)
 
 #### Support the Brian Fund:
-
-
 BTC:12uKh79xWBj11hmGMQ5XsnkkwSbpRu1squ
 

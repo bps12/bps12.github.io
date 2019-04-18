@@ -3,8 +3,6 @@ layout: page
 permalink: /resume/
 ---
 
-<p>bs@brianschaffner.com</p>
-
 ## Work Experience
 
 ### Systems Engineer at Upwork, Chicago IL                                                                                                          October 2018 – Present

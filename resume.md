@@ -5,7 +5,6 @@ permalink: /resume/
 
 ### Brian Schaffner
 <p>Email: bs@brianschaffner.com</p>
-<p>Website: brianschaffner.com</p>
 
 ## Work Experience
 ### Systems Engineer at Upwork, Chicago IL                                                                                               October 2018 – Present

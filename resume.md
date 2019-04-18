@@ -3,7 +3,6 @@ layout: page
 permalink: /resume/
 ---
 
-### Brian Schaffner
 <p>bs@brianschaffner.com</p>
 
 ## Work Experience

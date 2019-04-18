@@ -1,6 +1,7 @@
 ---
-Layout: page
-permalink: /resume/
+layout: page
+title: work Experience 
+permalink: /about/
 ---
 
 ## Work Experience

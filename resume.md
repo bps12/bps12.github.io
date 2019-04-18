@@ -31,7 +31,8 @@ permalink: /resume/
 - Integrated and configured newly received equipment for testing in data center.
 - Supported Solution Architects in a pre-sales capacity by providing research, data center topologies, and product comparisons.
 
-### System Administrator at Iowa State Virtual Reality Applications Center (VRAC), Ames IA                                       * January 2012 – January 2013
+### System Administrator at Iowa State Virtual Reality Applications Center (VRAC), Ames IA                             
+#### January 2012 – January 2013
 - Worked collaboratively in an interdisciplinary team of eight people including artists, animators, and game programmers to help create an educational video game.
 - Maintained the game database which tracked user statistics and demographics for educators to gauge student learning.
 - Redesigned and streamlined projects application program interface (API). Utilized Agile development practices with daily scrums.

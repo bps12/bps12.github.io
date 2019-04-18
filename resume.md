@@ -6,7 +6,7 @@ permalink: /resume/
 
 
 ### Systems Engineer at Upwork, Chicago IL
-# October 2018 – Present
+#### October 2018 – Present
 - Technical team lead overseeing architecture, design, and implementation of business-critical corporate IT systems.
 - Responsible for all internal systems both on premise (across 3 sites) and in AWS (EC2, Lambda, ECS workloads).
 - Aggregated multiple identity providers (GSuite, Okta, LDAP, AD, AWS, & Upwork.com) together utilizing SailPoint, API queries, and PowerShell to automate user provisioning and de-provisioning process across the entire organization.

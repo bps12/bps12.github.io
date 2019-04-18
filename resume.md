@@ -15,11 +15,10 @@ permalink: /resume/
 - Technical SME for migration of corporate IT assets in AWS from N. California to Oregon and creation of ansible / terraform workflows for common AWS activities.
 - Architected & built network for new branch office in Chicago supporting the entire sales organization. Worked collaboratively with contractors on-site including architects, engineering, HVAC, low voltage and ISPs to meet business requirements.					                
 ### Trade Applications Support Engineer at Akuna Capital, Chicago IL                                                         March 2018 – July 2018
-<p>
 - Supported 150+ derivatives/futures/cryptocurrency trading applications across three geographies (Chicago, Sydney, and Shanghai) running a mixed stack of Python, C#, C++ on Ubuntu/Debian.
 - Responsible for all code releases (30-50/day) in a continuous deployment environment.
 - Pro-actively setup monitoring, log rotation, wrapper scripts, and continuous efforts to scale various workloads.
-</p>
+
 
 ### Engineering Consultant I at Sirius Computer Solutions (Forsythe Technology), Chicago IL                                  March 2015 – March 2018
 - Worked across multiple sectors and domains in support of large enterprise initiatives related to data center migration and infrastructure-as-code automation.

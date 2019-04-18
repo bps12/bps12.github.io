@@ -7,16 +7,19 @@ permalink: /resume/
 <p>bs@brianschaffner.com</p>
 
 ## Work Experience
+
 ### Systems Engineer at Upwork, Chicago IL                                                                                               October 2018 – Present
 - Technical team lead overseeing architecture, design, and implementation of business-critical corporate IT systems.
 - Responsible for all internal systems both on premise (across 3 sites) and in AWS (EC2, Lambda, ECS workloads).
 - Aggregated multiple identity providers (GSuite, Okta, LDAP, AD, AWS, & Upwork.com) together utilizing SailPoint, API queries, and PowerShell to automate user provisioning and de-provisioning process across the entire organization.
 - Technical SME for migration of corporate IT assets in AWS from N. California to Oregon and creation of ansible / terraform workflows for common AWS activities.
 - Architected & built network for new branch office in Chicago supporting the entire sales organization. Worked collaboratively with contractors on-site including architects, engineering, HVAC, low voltage and ISPs to meet business requirements.					                
-### Trade Applications Support Engineer at Akuna Capital, Chicago IL                                                        March 2018 – July 2018
+### Trade Applications Support Engineer at Akuna Capital, Chicago IL                                                         March 2018 – July 2018
+<p>
 - Supported 150+ derivatives/futures/cryptocurrency trading applications across three geographies (Chicago, Sydney, and Shanghai) running a mixed stack of Python, C#, C++ on Ubuntu/Debian.
 - Responsible for all code releases (30-50/day) in a continuous deployment environment.
 - Pro-actively setup monitoring, log rotation, wrapper scripts, and continuous efforts to scale various workloads.
+</p>
 
 ### Engineering Consultant I at Sirius Computer Solutions (Forsythe Technology), Chicago IL                                  March 2015 – March 2018
 - Worked across multiple sectors and domains in support of large enterprise initiatives related to data center migration and infrastructure-as-code automation.

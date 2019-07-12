@@ -8,10 +8,10 @@ permalink: /resume/
 ### Systems Engineer at Upwork, Chicago IL
 #### October 2018 – Present
 - Technical team lead overseeing architecture, design, and implementation of business-critical corporate IT systems.
-- Responsible for all internal systems both on premise (across 3 sites) and in AWS (EC2, Lambda). Experience with S3 & RDS. 
--Lead IAM effort by Aggregating multiple identity providers (GSuite, Okta, LDAP, AD, AWS, & Upwork.com) together utilizing SailPoint, API queries, and PowerShell to automate user provisioning process and governance across the entire organization.
+- Responsible for all internal systems both on premise (across 3 sites) and in AWS (EC2, Lambda, S3, & RDS). 
+- Lead IAM effort by Aggregating multiple identity providers (GSuite, Okta, LDAP, AD, AWS, & Upwork.com) together utilizing SailPoint, APIs, and PowerShell scripts to automate user provisioning process and governance across the entire organization.
 - Technical SME for migration of corporate IT assets in AWS from N. California to Oregon and creation of ansible / terraform workflows for common AWS activities.
-- Architected & built network & server infrastructure for new offices in Chicago & Santa Clara supporting the entire sales & engineering organizations. Worked collaboratively with contractors on-site including architects, engineering, HVAC, low voltage and ISPs to meet business requirements.
+- Architected & built network & server infrastructure for new offices in Chicago & Santa Clara supporting the entire sales & engineering organizations. Worked in conjunction with contractors on-site including architects, engineering, HVAC, low voltage and ISPs to meet business requirements.
 
 ### Trade Applications Support Engineer at Akuna Capital, Chicago IL                              
 #### March 2018 – July 2018                                                  

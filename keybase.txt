@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/bschaffner
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://brianschaffner.com
+  * I am bschaffner (https://keybase.io/bschaffner) on keybase.
+  * I have a public key ASA3WdyGZ89BWjCSDsr_FdMyta9-bE2nos6OsvkZiyi-cQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01203759dc8667cf415a30920ecaff15d332b5af7e6c4da7a2ce8eb2f9198b28be710a",
+      "host": "keybase.io",
+      "kid": "01203759dc8667cf415a30920ecaff15d332b5af7e6c4da7a2ce8eb2f9198b28be710a",
+      "uid": "639182007214f3f589fa537eea254819",
+      "username": "bschaffner"
+    },
+    "merkle_root": {
+      "ctime": 1562890308,
+      "hash": "6c4165d3da93c521c15797e8501679056517519ffcabd14d6e88dbd227f9fc7010de8818fe066b49dc6e4382fd791f05c086f748a4cc7b2caaad030363208aca",
+      "hash_meta": "37e20a3ad64da745fff9f1d3436d4ee841d6e34896863768bb75e9e9283d60ad",
+      "seqno": 5744273
+    },
+    "service": {
+      "entropy": "FAgyUQH53NcJyHD003gY4TWi",
+      "hostname": "brianschaffner.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.2.0"
+  },
+  "ctime": 1562890318,
+  "expire_in": 504576000,
+  "prev": "d8110865d76fea31522810d30445c6657d41ac3e0706751f739cc03fa6db7413",
+  "seqno": 20,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgN1nchmfPQVowkg7K/xXTMrWvfmxNp6LOjrL5GYsovnEKp3BheWxvYWTESpcCFMQg2BEIZddv6jFSKBDTBEXGZX1BrD4HBnUfc5zAP6bbdBPEIAA5jtq1GCGidED8nzpxLDBoaAeXfiCCICqJNYOSyKO8AgHCo3NpZ8RARXtSPxutkVp/iNc+UmjOiLO+QC9X+bBpZz//64BHK9tR/3+1NISHwD6pe5AjJnZuYBYq0WBprC8AjF0VvsUID6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIAEAQwLrQmcaJguq/Cz9TgTnhv+njGTOKBR4SLvEyipTo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/bschaffner
+
+==================================================================

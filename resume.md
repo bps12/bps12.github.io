@@ -9,8 +9,9 @@ permalink: /resume/
 #### October 2018 – Present
 - Technical team lead overseeing architecture, design, and implementation of business-critical corporate IT systems.
 - Responsible for all internal systems both on premise (across 3 sites) and in AWS (EC2, Lambda, S3, & RDS). 
-- Lead IAM effort by Aggregating multiple identity providers (GSuite, Okta, LDAP, AD, AWS, & Upwork.com) together utilizing SailPoint, APIs, and PowerShell scripts to automate user provisioning process and governance across the entire organization.
-- Technical SME for migration of corporate IT assets in AWS from N. California to Oregon and creation of ansible / terraform workflows for common AWS activities.
+- Lead IAM effort by aggregating multiple identity providers (GSuite, Okta, LDAP, AD, AWS, & Upwork.com) together utilizing SailPoint, APIs, and PowerShell scripts to automate user provisioning process and governance across the entire organization.
+- Technical SME for migration of corporate IT assets in AWS from N. California to Oregon and creation of ansible / terraform workflows for common IT deployments.
+- Integrated AWS with Okta in Oregon in conjunction with the migration and IAM effort. Addtionally helped to build AWS IAM roles/policies for all agile teams in Terraform.
 - Architected & built network & server infrastructure for new offices in Chicago & Santa Clara supporting the entire sales & engineering organizations. Worked in conjunction with contractors on-site including architects, engineering, HVAC, low voltage and ISPs to meet business requirements.
 
 ### Trade Applications Support Engineer at Akuna Capital, Chicago IL                              

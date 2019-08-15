@@ -4,7 +4,7 @@ title: Work Experience
 permalink: /resume/
 ---
 
-### Systems Engineer at Upwork, Chicago IL
+### Senior Systems Engineer at Upwork, Chicago IL
 #### July 2019 – Present
 
 ### Systems Engineer at Upwork, Chicago IL

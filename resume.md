@@ -28,7 +28,7 @@ permalink: /resume/
 - Designed and deployed VMware and infrastructure automation with Ansible for a large health care system
 
 ### Forsythe Technology, Chicago IL                                                        
-#### Associate Consultant |January 2013 – March 2015
+#### Associate Consultant | January 2013 – March 2015
 - Participated in rotational program designed to train recent college graduates in various aspects of IT consulting.
 - Integrated and configured newly received equipment for testing in data center.
 - Supported Solution Architects in a pre-sales capacity by providing research, data center topologies, and product comparisons.

@@ -4,7 +4,7 @@ title: Couchsurfing in CDMX
 comments: true
 ---
 Ironically, I am starting another post saying I'm now working another new job (which is how the last post started)... and thats a big contributing factor to not posting a lot. I hope to do better on a lot of fronts in my life and one of them is posting my thoughts out to the ether a bit more. 
-Luckily I am still traveling and couchsurfing and trying to live my best life. Recently I couchsurfed in Ciudad de Mexico for the CouchCrash and WOW! what an experience.  I can't put in the words all the people i met who showed me a lot of love. Heres a small list (Phil, Manasi, Micah, Sarah, Pedro, Alejandra, Joza, Steph, Angie, Scott, Robbie). I'll try to highlight a few things I enjoyed. 
+Luckily I am still traveling and couchsurfing and trying to live my best life. Recently I couchsurfed in Ciudad de Mexico for the CouchCrash and WOW! what an experience.  I can't put in the words all the people i met who showed me a lot of love. Heres a small list (Phil, Manasi, Micah, Sarah, Pedro, Alejandra, Joza, Steph, Angie, and Scott). I'll try to highlight a few things I enjoyed. 
 
 ### Fondo
 I had visited Mexico City once when I was really young and the only thing I recall was the smog coming in on the plane. Not to fret I was not let down in that regard and saw plenty more ;)

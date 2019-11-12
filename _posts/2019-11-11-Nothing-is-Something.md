@@ -3,7 +3,7 @@ layout: post
 title: Nothing is Something Worth Doing
 comments: true
 ---
-I will soon be taking the blog back to the regularly programming... yep you guessed it - travel updates. I have a lot to say about my travels especially with Erdogan, Trump, and the Kurds being in the news recently. I suppose that’s old news now when you look to Bolivia, Chile, or Hong Kong! 
+I will soon be taking the blog back to the regularly scheduled programming... yep you guessed it - travel updates. I have a lot to say about my travels especially with Erdogan, Trump, and the Kurds being in the news recently. I suppose that’s old news now when you look to Bolivia, Chile, or Hong Kong! 
 
 ("May you live in interesting times indeed") 
 

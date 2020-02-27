@@ -13,7 +13,7 @@ permalink: /resume/
 - Technical SME for migration of corporate IT assets in AWS from N. California (usw1) to Oregon (usw2) and creation of ansible / terraform workflows for common IT deployments.
 - Integrated AWS with Okta in conjunction with the migration and IAM effort and helped to build AWS IAM roles/policies for all agile teams in Terraform.
 - Created IAM Strategy & Policy for Google Cloud Platform & Azure
-- Architected & built network & server infrastructure for new offices in Chicago & Santa Clara supporting the entire sales & engineering organizations. Worked in conjunction with contractors on-site including architects, engineering, HVAC, low voltage and ISPs to meet business requirements.
+- Architected network & server infrastructure for new offices in Chicago & Santa Clara supporting the entire sales & engineering organizations. Worked in conjunction with contractors on-site including architects, engineering, HVAC, low voltage and ISPs to meet business requirements.
 - Responsible for 1 direct report
 
 ### Akuna Capital, Chicago IL                              

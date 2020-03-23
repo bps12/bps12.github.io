@@ -14,7 +14,7 @@ I was/am totally awestruck by this. As people come together through hard times i
 
  ![_config.yml]({{ site.baseurl }}/images/miners.jpg)
  
-I’m proud to say that now I have 15 GPUs contributing to the project. There is no guarantee what the results of the experiments will yield but its a very interesting opportunity for scientists to throw everything they have at this pandemic. Many countries have had leaked documents come out saying the crisis will likely last 18 months. In my mind that alone makes it seem high level officials are banking on a vaccine or treatment. There are plenty of stories in the news of people becoming reinfected. Whilst I cannot contribute on the order of magnitude of a giant Ethereum mining farm I'm happy to be playing some part in this. 
+I’m proud to say that now I have 17 GPUs contributing to the project. There is no guarantee what the results of the experiments will yield but its a very interesting opportunity for scientists to throw everything they have at this pandemic. Many countries have had leaked documents come out saying the crisis will likely last 18 months. In my mind that alone makes it seem high level officials are banking on a vaccine or treatment. There are plenty of stories in the news of people becoming reinfected. Whilst I cannot contribute on the order of magnitude of a giant Ethereum mining farm I'm happy to be playing some part in this. 
 
 F@H has already made tangible results in other areas and makes thier data publically available to other researchers: 
 [here, ](http://www.choderalab.org/publications/2018/8/20/the-dynamic-conformational-landscapes-of-the-protein-methyltransferase-setd8)

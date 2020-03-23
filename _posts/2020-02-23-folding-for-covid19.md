@@ -12,7 +12,7 @@ Perhaps a greater commentary is needed on the implications of this but as I dug 
 
 I was/am totally awestruck by this. As people come together through hard times in person they are also coming together virtually to tackle this problem. Even in the face of massive uncertainty and volatility miners are foregoing their income to contribute to something bigger than themselves. Human nature and all that... It wasn't a question of should I do it, it was how can i get this stood up ASAP. I have many crypto mining GPU rigs sitting around that paid themselves off a couple years that are now sitting idle as they were no longer profitable(pic below of sad miners): 
 
- ![_config.yml]({{ site.baseurl }}/images/IMG_20200323_010212.jpg)
+ ![_config.yml]({{ site.baseurl }}/images/miners.jpg)
  
 I’m proud to say that now I have 15 GPUs contributing to the project. There is no guarantee what the results of the experiments will yield but its a very interesting opportunity for scientists to throw everything they have at this pandemic. Many countries have had leaked documents come out saying the crisis will likely last 18 months. In my mind that alone makes it seem high level officials are banking on a vaccine or treatment. There are plenty of stories in the news of people becoming reinfected. Whilst I cannot contribute on the order of magnitude of a giant Ethereum mining farm I'm happy to be playing some part in this. 
 

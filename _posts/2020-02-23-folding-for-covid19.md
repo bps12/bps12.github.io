@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Folding' for COVID-19
+title: Folding for COVID-19
 comments: true
 ---
 
